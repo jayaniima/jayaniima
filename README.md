@@ -94,5 +94,5 @@ I believe that effective analytics is not only about building reports and dashbo
 ## Connect With Me
 
 I am passionate about leveraging data to solve business challenges and create meaningful insights. Feel free to explore my repositories and connect with me regarding data analytics, business intelligence, and reporting solutions.
-
+LinkedIn : www.linkedin.com/in/jayani-imalka-ji9050
 ⭐ Always learning. Always improving. Always driven by data.
